@@ -1,6 +1,7 @@
 # python-api-challenge
 
 **Part 1: WeatherPy**
+
 In this deliverable, you'll create a Python script to visualize the weather of over 500 cities of varying distances from the equator. You'll use the citipy Python library Links to an external site., the OpenWeatherMap API Links to an external site., and your problem-solving skills to create a representative model of weather across cities.
 
 **Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude**
@@ -57,11 +58,11 @@ To succeed on this deliverable of the assignment, open the VacationPy.ipynb star
 
 2. Narrow down the city_data_df DataFrame to find your ideal weather condition. For example:
 
--A max temperature lower than 27 degrees but higher than 21
+	-A max temperature lower than 27 degrees but higher than 21
 
--Wind speed less than 4.5 m/s
+	-Wind speed less than 4.5 m/s
 
--Zero cloudiness
+	-Zero cloudiness
 
 3. Create a new DataFrame called hotel_df to store the city, country, coordinates, and humidity.
 
